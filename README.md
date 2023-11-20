@@ -34,7 +34,7 @@ A theme is a predefined design for use in your webpage. Jekyll has the following
 
 To change the theme to dinky, edit the _config.yml file and modify the theme to:
 ```
-theme: jekyll-theme: dinky
+theme: jekyll-theme-dinky
 ``` 
 
 ### Custom Theme
